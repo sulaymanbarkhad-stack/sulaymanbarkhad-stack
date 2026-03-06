@@ -1,55 +1,56 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Sulayman%20Barkhad&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
-
 <h1 align="center">Hi 👋, I'm Sulayman</h1>
 
+<h3 align="center">
+Full-Stack Developer | MERN Stack | Building Modern Web & Mobile Apps
+</h3>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Fullstack+Developer;MERN+Stack+Engineer;Building+Scalable+Web+Applications;React+%7C+Node+%7C+MongoDB;Future+Cloud+Engineer"/>
+🚀 Passionate about building scalable applications and clean UI experiences.
 </p>
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+- 💻 Full-Stack Developer (MERN)
+- 📱 Building **Web & Mobile apps**
+- ☁️ Interested in **Cloud & Scalable Systems**
+- 🚀 Currently improving **Advanced Backend Engineering**
+- 🧠 Passionate about **AI-powered applications**
 
 ---
 
 # 🧠 AI Developer Badge
 
 <p align="center">
-
-![AI Developer](https://img.shields.io/badge/AI%20Developer-Building%20Smart%20Applications-blueviolet?style=for-the-badge\&logo=openai)
-
+<img src="https://img.shields.io/badge/AI%20Developer-Building%20Smart%20Systems-blueviolet?style=for-the-badge"/>
 </p>
 
 ---
 
-# 💫 About Me
-
-**Sulayman Barkhad**
-
-Fullstack Engineer specializing in modern **JavaScript ecosystems** and the **MERN stack**.
-
-I build **secure, scalable, and production-ready applications** with strong backend architecture and modern frontend systems.
-
-### 👨‍💻 Engineering Focus
-
-* Clean and maintainable architecture
-* RESTful API development
-* Secure authentication systems
-* Scalable backend systems
-* Responsive modern UI
-* Performance-optimized frontend
-
-Currently building a **production-ready Hotel Management System** with admin dashboards, protected routes, and booking workflows.
-
----
-
-# ⭐ Senior Developer Pinned Projects
+# 🔥 Tech Stack
 
 <p align="center">
 
-<a href="https://github.com/sulaymanbarkhad-stack">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sulaymanbarkhad-stack&repo=hotel-management-system&theme=tokyonight"/>
-</a>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,figma,aws"/>
 
-<a href="https://github.com/sulaymanbarkhad-stack">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sulaymanbarkhad-stack&repo=quran-playlist-platform&theme=tokyonight"/>
-</a>
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React%20Native-Mobile%20Apps-blue?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Vercel-Deployment-black?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Render-Backend%20Hosting-purple?style=for-the-badge"/>
 
 </p>
 
@@ -57,101 +58,47 @@ Currently building a **production-ready Hotel Management System** with admin das
 
 # 🚀 Featured Projects
 
-## 🏨 Hotel Management System
+### 🏨 Hotel Management System
+Full-stack system for hotel operations.
 
-A fullstack application designed to manage hotel operations including bookings, user roles, and administrative workflows.
+**Tech:** React · Node.js · Express · MongoDB
 
-### Core Features
-
-* Secure JWT authentication
-* Role-based access control
-* Protected routes
-* Booking management system
-* Structured MongoDB schemas
-* RESTful API architecture
-
-### Tech Stack
-
-React • Tailwind CSS • Node.js • Express • MongoDB
+Features:
+- Admin dashboard
+- Booking management
+- Room tracking
+- Customer system
 
 ---
 
-## 🎵 Qur’an Playlist Platform
+### ♻️ Waste Report System
+Civic platform for reporting waste issues.
 
-A structured audio playlist platform for managing and streaming Qur’an recitations.
+**Tech:** React · Node.js · Express · MongoDB
 
-### Features
-
-🔐 Authentication
-Secure user login and registration
-
-🎵 Playlist Management
-Create, edit, and manage recitations
-
-🔊 Audio Streaming
-Integrated audio playback system
-
-📱 Responsive UI
-Optimized for all screen sizes
-
-### Deployment
-
-Frontend: **Vercel**
-Backend: **Render**
-Database: **MongoDB Atlas**
+Features:
+- Real-time reports
+- Admin moderation
+- Location tracking
 
 ---
 
-# 💻 Tech Stack
+### 🎧 Qur’an Playlist Platform
+Audio playlist application.
+
+**Tech:** React · Node.js · MongoDB
+
+Features:
+- Playlist system
+- Audio streaming
+- Clean UI
+
+---
+
+# 🏆 GitHub Achievements
 
 <p align="center">
-
-![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-
-![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-
-![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-
-![Express](https://img.shields.io/badge/express.js-404D59?style=for-the-badge)
-
-![MongoDB](https://img.shields.io/badge/mongodb-4ea94b?style=for-the-badge\&logo=mongodb\&logoColor=white)
-
-![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
-
-![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-
-![Render](https://img.shields.io/badge/render-46E3B7?style=for-the-badge\&logo=render\&logoColor=black)
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-
-</p>
-
----
-
-# 🔥 3D Animated Tech Icons
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,figma,aws,vercel&perline=6"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sulaymanbarkhad-stack&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&no-frame=true&margin-w=10"/>
 </p>
 
 ---
@@ -160,73 +107,58 @@ Database: **MongoDB Atlas**
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sulaymanbarkhad-stack&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulaymanbarkhad-stack&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 📈 Most Used Languages
 
 <p align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=sulaymanbarkhad-stack&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# ⏱ Coding Activity (WakaTime)
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sulaymanbarkhad-stack&theme=tokyo-night"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourusername"/>
 
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# 👀 Visitor Counter
 
 <p align="center">
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 🌐 Portfolio
+# 🌃 GitHub Skyline
 
-https://my-portfolio-kappa-wine-21.vercel.app/
+Generate your skyline here:
 
----
-
-# 📬 Contact
-
-📧 [sulaymanbarkhad@gmail.com](mailto:sulaymanbarkhad@gmail.com)
-
-💼 LinkedIn
-https://www.linkedin.com/in/sulayman-barkhad
+https://skyline.github.com/
 
 ---
 
-# ⭐ Developer Principles
+# ⚡ Fun Fact
 
-* Build **systems**, not just features
-* Write **clean and maintainable code**
-* Prioritize **security and performance**
-* Follow **scalable architecture patterns**
-* Continuously **refactor and improve**
+> I love building **full-stack systems that solve real-world problems.**
 
 ---
 
 <p align="center">
-
-⭐ Building scalable applications with modern JavaScript technologies
-
+⭐ From <a href="https://github.com/sulaymanbarkhad-stack">Sulayman</a>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer"/>
