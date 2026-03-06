@@ -66,62 +66,29 @@ Full-Stack Developer | MERN Stack | Building Modern Web & Mobile Apps
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/React%20Native-Mobile%20Apps-blue?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Vercel-Deployment-black?style=for-the-badge&logo=vercel"/>
-<img src="https://img.shields.io/badge/Render-Backend%20Hosting-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React%20Native-Mobile%20Apps-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Vercel-Deployment-000?style=for-the-badge&logo=vercel"/>
+
+<img src="https://img.shields.io/badge/Render-Backend%20Hosting-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
 
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# ⭐ Featured Projects
 
-### 🏨 Hotel Management System
+<p align="center">
 
-Full-stack system for hotel operations.
+<a href="https://github.com/sulaymanbarkhad-stack/hotel-management-system">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sulaymanbarkhad-stack&repo=hotel-management-system&theme=tokyonight"/>
+</a>
 
-**Tech Stack**
+<a href="https://github.com/sulaymanbarkhad-stack/quran-playlist-platform">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sulaymanbarkhad-stack&repo=quran-playlist-platform&theme=tokyonight"/>
+</a>
 
-React • Node.js • Express • MongoDB
-
-**Features**
-
-✔ Admin dashboard  
-✔ Booking management  
-✔ Room tracking  
-✔ Customer system  
-
----
-
-### ♻️ Waste Report System
-
-Civic platform for reporting waste issues.
-
-**Tech Stack**
-
-React • Node.js • Express • MongoDB
-
-**Features**
-
-✔ Real-time reports  
-✔ Admin moderation  
-✔ Location tracking  
-
----
-
-### 🎧 Qur’an Playlist Platform
-
-Audio playlist application.
-
-**Tech Stack**
-
-React • Node.js • MongoDB
-
-**Features**
-
-✔ Playlist system  
-✔ Audio streaming  
-✔ Clean UI  
+</p>
 
 ---
 
@@ -171,7 +138,7 @@ React • Node.js • MongoDB
 
 <p align="center">
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/sulaymanbarkhad-stack/sulaymanbarkhad-stack/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
