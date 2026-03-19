@@ -20,6 +20,7 @@ I am a passionate **Full-stack Developer** dedicated to building high-performanc
 
 #### 🌐 Frontend & Design
 <p align="left">
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -46,8 +47,8 @@ I am a passionate **Full-stack Developer** dedicated to building high-performanc
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SulaymanBarkhad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulaymanBarkhad&layout=compact&theme=tokyonight"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=sulaymanbarkhad-stack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulaymanbarkhad-stack&layout=compact&theme=tokyonight" />
 </p>
 
 ---
