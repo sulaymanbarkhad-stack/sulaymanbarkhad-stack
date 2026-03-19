@@ -55,7 +55,11 @@ I am a passionate **Full-stack Developer** dedicated to building high-performanc
 
 ### 🔗 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/sulaymanbarkhad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sulaymanbarkhad" height="30" width="40" /></a>
-<a href="https://myportfolion-wtb9.vercel.app/" target="blank"><img align="center" src="<img width="953" height="440" alt="image" src="https://github.com/user-attachments/assets/a63f69cc-3556-4ea4-b3ae-6a9b980f5d46" />
-" alt="portfolio" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/sulaymanbarkhad" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  
+  <a href="https://myportfolion-wtb9.vercel.app/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="Portfolio" height="30" width="40" />
+  </a>
 </p>
