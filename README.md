@@ -53,6 +53,8 @@ I am a passionate **Full-stack Developer** dedicated to building high-performanc
 
 ---
 
+---
+
 ### 🔗 Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/sulaymanbarkhad" target="_blank">
@@ -62,4 +64,10 @@ I am a passionate **Full-stack Developer** dedicated to building high-performanc
   <a href="https://myportfolion-wtb9.vercel.app/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="Portfolio" height="30" width="40" />
   </a>
+</p>
+
+<br />
+
+<p align="left">
+  <img width="200" alt="Sulayman" src="https://github.com/user-attachments/assets/a09babb2-bbbd-41b5-be9d-d71840557485" style="border-radius: 10px;" />
 </p>
