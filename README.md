@@ -57,6 +57,8 @@ I am a passionate **Full-stack Developer** dedicated to building high-performanc
 
 ---
 
+---
+
 ### 🔗 Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/sulaymanbarkhad" target="_blank">
@@ -71,5 +73,5 @@ I am a passionate **Full-stack Developer** dedicated to building high-performanc
 <br />
 
 <p align="left">
-  <img width="200" alt="Sulayman" src="https://github.com/user-attachments/assets/a09babb2-bbbd-41b5-be9d-d71840557485" style="border-radius: 10px;" />
+  <img width="200" alt="Sulayman" src="https://github.com/user-attachments/assets/a09babb2-bbbd-41b5-be9d-d71840557485" style="border-radius: 12px;" />
 </p>
