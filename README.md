@@ -55,6 +55,8 @@ I am a passionate **Full-stack Developer** dedicated to building high-performanc
 
 ---
 
+---
+
 ### 🔗 Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/sulaymanbarkhad" target="_blank">
