@@ -45,9 +45,18 @@ I am a passionate **Full-stack Developer** dedicated to building high-performanc
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 GitHub Trophies
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sulaymanbarkhad-stack&show_icons=true&theme=tokyonight&count_private=true" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sulaymanbarkhad-stack&theme=tokyonight&no-frame=false&margin-w=15" alt="Sulayman's Trophies" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Activity & Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sulaymanbarkhad-stack&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sulaymanbarkhad-stack&theme=tokyonight" />
 </p>
 
@@ -55,13 +64,9 @@ I am a passionate **Full-stack Developer** dedicated to building high-performanc
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulaymanbarkhad-stack&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sulaymanbarkhad-stack&theme=tokyonight&no-frame=false&row=1&column=6" />
-</p>
-
 ---
 
-### 🌐 Portfolio
+### 🌐 Portfolio & Featured Work
 <p align="center">
   <a href="https://myportfolion-wtb9.vercel.app/" target="_blank">
     <img width="600" src="https://github.com/user-attachments/assets/a09babb2-bbbd-41b5-be9d-d71840557485" style="border-radius: 15px; border: 3px solid #3B82F6;" />
@@ -70,18 +75,25 @@ I am a passionate **Full-stack Developer** dedicated to building high-performanc
 
 <p align="center">
   <a href="https://myportfolion-wtb9.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visit_Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 ### 🔗 Connect with me
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/sulaymanbarkhad" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
   <a href="https://myportfolion-wtb9.vercel.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" height="40"/>
+    <img src="https://skillicons.dev/icons?i=vercel" height="45"/>
   </a>
+  <a href="mailto:sulaymanbarkhad@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer" />
 </p>
