@@ -47,16 +47,16 @@ I am a passionate **Full-stack Developer** dedicated to building high-performanc
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sulaymanbarkhad-stack&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sulaymanbarkhad-stack&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sulaymanbarkhad-stack&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sulaymanbarkhad-stack&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulaymanbarkhad-stack&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulaymanbarkhad-stack&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sulaymanbarkhad-stack&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sulaymanbarkhad-stack&theme=tokyonight&no-frame=false&row=1&column=6" />
 </p>
 
 ---
@@ -77,11 +77,11 @@ I am a passionate **Full-stack Developer** dedicated to building high-performanc
 ---
 
 ### 🔗 Connect with me
-<p>
-  <a href="https://linkedin.com/in/sulaymanbarkhad">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
+<p align="left">
+  <a href="https://linkedin.com/in/sulaymanbarkhad" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="https://myportfolion-wtb9.vercel.app/">
-    <img src="https://skillicons.dev/icons?i=vercel" height="30"/>
+  <a href="https://myportfolion-wtb9.vercel.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" height="40"/>
   </a>
 </p>
